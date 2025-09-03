@@ -1,0 +1,16 @@
+{
+  "name": "halo-bot",
+  "version": "1.0.0",
+  "description": "Halo the bunny-angel Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "express": "^4.19.2"
+  }
+}
